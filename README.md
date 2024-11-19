@@ -46,34 +46,33 @@ Backend Setup
     + Đảm bảo kết nối Firebase trong file google-services.json (Android) hoặc GoogleService-Info.plist (iOS).
 
 4.Hướng Dẫn Sử Dụng
-    - Đăng ký và đăng nhập:
-        + Tạo tài khoản với email và mật khẩu hợp lệ.
-        + Sau khi đăng nhập, bạn sẽ được chuyển đến Trang Chủ.
+- Đăng ký và đăng nhập:
+  + Tạo tài khoản với email và mật khẩu hợp lệ.
+    + Sau khi đăng nhập, bạn sẽ được chuyển đến Trang Chủ.
 
-    - Trang Chủ:
-        + Xem danh sách món ăn kèm hình ảnh và giá cả.
-        + Nhấn vào món ăn để chọn số lượng và thêm vào giỏ hàng.
+- Trang Chủ:
+  + Xem danh sách món ăn kèm hình ảnh và giá cả.
+    + Nhấn vào món ăn để chọn số lượng và thêm vào giỏ hàng.
     
-    - Thanh toán:
-        + Truy cập mục Ví từ menu dưới cùng.
-        + Thêm số tiền bạn muốn vào ví.
-        + Sau khi ví có tiền, quay lại giỏ hàng và chọn Thanh toán.
-    - Quản lý tài khoản:
-        Truy cập Hồ Sơ (Profile) để:
-            + Thay đổi ảnh đại diện.
-            + Đăng xuất tài khoản.
-            + Xóa tài khoản (hệ thống sẽ hiển thị cảnh báo trước khi xóa).
+- Thanh toán:
+  + Truy cập mục Ví từ menu dưới cùng.
+    + Thêm số tiền bạn muốn vào ví.
+    + Sau khi ví có tiền, quay lại giỏ hàng và chọn Thanh toán.
+- Quản lý tài khoản:
+  Truy cập Hồ Sơ (Profile) để:
+  + Thay đổi ảnh đại diện.
+  + Đăng xuất tài khoản.
+  + Xóa tài khoản (hệ thống sẽ hiển thị cảnh báo trước khi xóa).
 
 
 5.Môi Trường Phát Triển
 
 Environment Variables
-    - Ứng dụng Firebase yêu cầu cấu hình từ Firebase Console.
-
-        + Tải file google-services.json (Android) hoặc GoogleService-Info.plist (iOS) từ Firebase Console và thêm vào dự án.
+- Ứng dụng Firebase yêu cầu cấu hình từ Firebase Console.
++ Tải file google-services.json (Android) hoặc GoogleService-Info.plist (iOS) từ Firebase Console và thêm vào dự án.
 Testing
-    - Sử dụng trình giả lập hoặc thiết bị thật để kiểm tra.
-    - Cần kết nối internet để sử dụng các dịch vụ Firebase.
+- Sử dụng trình giả lập hoặc thiết bị thật để kiểm tra.
+- Cần kết nối internet để sử dụng các dịch vụ Firebase.
 
 Ghi Chú
 
